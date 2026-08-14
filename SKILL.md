@@ -1,5 +1,7 @@
 ---
 name: editorial-topic-portfolio
+slug: editorial-topic-portfolio-skill
+displayName: Editorial Topic Portfolio
 description: >
   This skill should be used when evaluating a portfolio of technology, AI, data,
   cloud, or enterprise-software content topics. It normalizes Notion or
@@ -13,7 +15,7 @@ description: >
   perform readback verification.
 description_zh: 选题组合评估与写作排期
 description_en: Editorial topic portfolio
-version: 1.0.1
+version: 1.0.2
 agent_created: true
 read_when:
   - editorial topic portfolio
