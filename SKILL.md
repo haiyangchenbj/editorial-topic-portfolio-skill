@@ -13,9 +13,15 @@ description: >
   documented standing instruction to sync every routine review may use that
   instruction as the authorization, but must still generate a change preview and
   perform readback verification.
+  中文触发词: 选题评估, 选题组合, 竞争密度, 原创空间, Notion选题库, 内容排期
 description_zh: 选题组合评估与写作排期
 description_en: Editorial topic portfolio
-version: 1.0.2
+not_for:
+  - Writing, editing, or laying out a single article (use the writing or publishing pipeline skills)
+  - Publishing or distributing content to platforms
+  - Developing Notion databases or API integrations
+  - Performance review of already-published content
+version: "1.0.6"
 agent_created: true
 read_when:
   - editorial topic portfolio
